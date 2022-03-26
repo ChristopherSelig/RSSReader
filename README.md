@@ -1,2 +1,2 @@
 # RSSReader
-This is a PHP Application to ready RSS Feeds.
+This is a PHP Application to read RSS Feeds.
